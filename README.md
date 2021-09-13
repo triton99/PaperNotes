@@ -1,5 +1,5 @@
 # PaperNotes
-Notes for papers I've read. Inspired by [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning), [Ngo Duc Tuan](https://github.com/ngoductuanlhp/PaperNotes).
+Notes for papers that I read. Inspired by [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning), [Ngo Duc Tuan](https://github.com/ngoductuanlhp/PaperNotes).
 # Topics
 # GAN
 * [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
